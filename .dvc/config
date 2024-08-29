@@ -1,4 +1,8 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = gdrive://1h73-icMFVnWbt57qPlWo301_n6eWjzde
+['remote "myremote"']
+    url = gdrive://1h73-icMFVnWbt57qPlWo301_n6eWjzde
+    gdrive_client_id = 86101684967-ua8fi55ng59gm79v9remorpm1k333532.apps.googleusercontent.com
+    gdrive_client_secret = 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
